@@ -13,8 +13,8 @@ Overview
       - | |travis|  |requires|
         | |coveralls| |codecov|
     * - package
-      - | |version| |wheel| |supported-versions| |supported-implementations|
-        | |commits-since|
+      - | |commits-since|
+
 .. |docs| image:: https://readthedocs.org/projects/py-csv-analyser/badge/?style=flat
     :target: https://readthedocs.org/projects/py-csv-analyser
     :alt: Documentation Status
@@ -35,27 +35,9 @@ Overview
     :alt: Coverage Status
     :target: https://codecov.io/github/diesdasjenes/py-csv-analyser
 
-.. |version| image:: https://img.shields.io/pypi/v/py-csv-analyser.svg
-    :alt: PyPI Package latest release
-    :target: https://pypi.org/project/py-csv-analyser
-
-.. |wheel| image:: https://img.shields.io/pypi/wheel/py-csv-analyser.svg
-    :alt: PyPI Wheel
-    :target: https://pypi.org/project/py-csv-analyser
-
-.. |supported-versions| image:: https://img.shields.io/pypi/pyversions/py-csv-analyser.svg
-    :alt: Supported versions
-    :target: https://pypi.org/project/py-csv-analyser
-
-.. |supported-implementations| image:: https://img.shields.io/pypi/implementation/py-csv-analyser.svg
-    :alt: Supported implementations
-    :target: https://pypi.org/project/py-csv-analyser
-
 .. |commits-since| image:: https://img.shields.io/github/commits-since/diesdasjenes/py-csv-analyser/v0.0.0.svg
     :alt: Commits since latest release
     :target: https://github.com/diesdasjenes/py-csv-analyser/compare/v0.0.0...master
-
-
 
 .. end-badges
 
