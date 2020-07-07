@@ -15,7 +15,7 @@ Overview
     * - package
       - | |commits-since|
 
-.. |docs| image:: https://readthedocs.org/projects/py-csv-analyser/badge/?style=flat
+.. |docs| image:: https://readthedocs.org/projects/py-csv-analyser/badge/?version=latest
     :target: https://readthedocs.org/projects/py-csv-analyser
     :alt: Documentation Status
 
