@@ -10,7 +10,7 @@ Overview
     * - docs
       - |docs|
     * - tests
-      - | |travis| |appveyor| |requires|
+      - | |travis|  |requires|
         | |coveralls| |codecov|
     * - package
       - | |version| |wheel| |supported-versions| |supported-implementations|
@@ -23,11 +23,7 @@ Overview
     :alt: Travis-CI Build Status
     :target: https://travis-ci.org/DiesDasJenes/py-csv-analyser
 
-.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/diesdasjenes/py-csv-analyser?branch=master&svg=true
-    :alt: AppVeyor Build Status
-    :target: https://ci.appveyor.com/project/diesdasjenes/py-csv-analyser
-
-.. |requires| image:: https://requires.io/github/diesdasjenes/py-csv-analyser/requirements.svg?branch=master
+.. |requires| image:: https://requires.io/github/DiesDasJenes/py-csv-analyser/requirements.svg?branch=master
     :alt: Requirements Status
     :target: https://requires.io/github/diesdasjenes/py-csv-analyser/requirements/?branch=master
 
