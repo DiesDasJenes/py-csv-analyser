@@ -27,7 +27,7 @@ Overview
     :alt: Requirements Status
     :target: https://requires.io/github/diesdasjenes/py-csv-analyser/requirements/?branch=master
 
-.. |coveralls| image:: https://coveralls.io/repos/diesdasjenes/py-csv-analyser/badge.svg?branch=master&service=github
+.. |coveralls| image:: https://coveralls.io/repos/github/DiesDasJenes/py-csv-analyser/badge.svg?branch=master
     :alt: Coverage Status
     :target: https://coveralls.io/r/diesdasjenes/py-csv-analyser
 
