@@ -19,9 +19,9 @@ Overview
     :target: https://readthedocs.org/projects/py-csv-analyser
     :alt: Documentation Status
 
-.. |travis| image:: https://api.travis-ci.org/diesdasjenes/py-csv-analyser.svg?branch=master
+.. |travis| image:: https://travis-ci.org/DiesDasJenes/py-csv-analyser.svg?branch=master
     :alt: Travis-CI Build Status
-    :target: https://travis-ci.org/diesdasjenes/py-csv-analyser
+    :target: https://travis-ci.org/DiesDasJenes/py-csv-analyser
 
 .. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/diesdasjenes/py-csv-analyser?branch=master&svg=true
     :alt: AppVeyor Build Status
